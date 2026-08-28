@@ -117,3 +117,6 @@ xxx.diff.html
 xxx.diff.md
 xxx.diff.json
 ```
+Copyright © 2026 Frank Fan. All rights reserved.
+
+本项目仅用于个人作品展示和内部测试。未经许可，不得复制、修改、分发或商业使用。
