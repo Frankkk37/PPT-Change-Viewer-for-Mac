@@ -1,4 +1,4 @@
-# PPT Diff Tool v0.9 GUI
+# PPT Diff Tool v0.9 GUI【Mac版本】
 
 本版本继续优先解决：
 
